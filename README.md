@@ -20,6 +20,9 @@ token = get_api_token(session, login='LOGIN', password='PASSWORD')
 RUCAPTCHA_KEY = "PUT_KEY_HERE"
 ```
 Создайте анкету в боте Леонардо Дайвинчик https://vk.com/dayvinchik
+
 Перейдите к этапу просмотра анкет
+
 Убедитесь, что последнее сообщение - анкета, доступная для оценки. 
+
 Запустите main.py
